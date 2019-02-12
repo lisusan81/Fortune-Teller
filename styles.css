@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-image: url("https://previews.123rf.com/images/denchik/denchik1301/denchik130100047/17159015-green-background-with-squares-abstract-illustration.jpg");
+    font-family: 'Staatliches', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+
+input {
+   width: 200px;
+   height: 30px;
+}
+
+button {
+    width: 130px;
+    height: 25px;
+}
+
+.final {
+   display: none; 
+}
+
+.final {
+    display:none;   
+}
+
+.calc {
+    font-family: 'Staatliches', cursive;
+    color: #333399;
+    font-size: 40px;
+}
+
+.final {
+    font-family: 'Staatliches', cursive;
+    color: #333399;
+    font-size: 40px;
+    
+}
